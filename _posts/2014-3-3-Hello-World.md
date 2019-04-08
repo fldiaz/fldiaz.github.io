@@ -1,9 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: Me presento!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hola, soy economista, realice una Maestria en Finanzas, y actualmente me encuentro concluyendo el trabajo final de mi especialización en Ciencia de Datos.
+He trabajado en el mercado de capitales, como analista de renta variable, y análisis económico-financiero. Me desempeñe en el sector público en el seguimiento y control operativo de diversos proyectos.
+Tengo 40 años, estoy casada con Ignacio y tenemos una hija de casi 4 años.
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
