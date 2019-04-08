@@ -11,4 +11,4 @@ Soy economista, realice una Maestria en Finanzas, y actualmente me encuentro con
 
 ### Contact me
 
-[email@domain.com](mailto:fldiaz@itba.edu.ar)
+[fldiaz@itba.edu.ar](mailto:fldiaz@itba.edu.ar)
