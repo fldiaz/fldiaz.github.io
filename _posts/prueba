@@ -1,1 +1,7 @@
-Nuevo posteo
+---
+layout: post
+title: Mi primer Dashboard
+---
+
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
