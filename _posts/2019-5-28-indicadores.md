@@ -12,4 +12,8 @@ La aplicación se realizó con Dash y Plotly, en Python y se implementó en Hero
 
 ![_config.yml]({{ site.baseurl }}/images/inidcadoresblog.JPG)
 
+<<<<<<< HEAD
 The complete Dashboard can be viewed at [https://indicadoreseconomicos.herokuapp.com/]
+=======
+The complete Dashboard can be viewed at (https://indicadoreseconomicos.herokuapp.com/)
+>>>>>>> b728ca0cf860953112427fd08c0e6dd1ce437619
