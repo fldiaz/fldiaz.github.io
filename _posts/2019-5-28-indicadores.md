@@ -1,12 +1,15 @@
 ---
 layout: post
-title: Dashboard de Indicadores Económicos con Dash y Plotly
+title: Economic Indicators Dashboard with Dash and Plotly
 ---
 
-Con la API de Series de Tiempo publicada por el Ministerio de Modernización se puede realizar el seguimiento en el tiempo de las variables de mayor importancia para el seguimiento de la economía
+With Time Series API published by Ministry of Modernization I've identified a few relevant economic indicators to help assess the current economic trend.
+The app was build using Dash and Plotly in Python, and deployed in Heroku
 
-La aplicación se realizó en Python y fue instalada en Heroku.
+Con la API de Series de Tiempo publicada por el Ministerio de Modernización he identificado algunos indicadores económicos relevantes para ayudar a evaluar la tendencia económica actual.
+
+La aplicación se realizó con Dash y Plotly, en Python y se implementó en Heroku.
 
 ![_config.yml]({{ site.baseurl }}/images/inidcadoresblog.JPG)
 
-Podes verla en https://indicadoreseconomicos.herokuapp.com/
+The complete Dashboard can be viewed at [https://indicadoreseconomicos.herokuapp.com/]
