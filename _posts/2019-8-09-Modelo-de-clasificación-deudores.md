@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sociodemographics Indicators from Avellaneda city
-
+---
 This app shows several sociodemographics indicators from Avellaneda city.
 It was developed using census radios information produced by The National Institute of Statistics and Censuses (INDEC) in the 2010 Census.
 Census radios are geographical units that have, on average, 300 homes in the cities.
