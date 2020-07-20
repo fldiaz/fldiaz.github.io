@@ -15,6 +15,6 @@ This tool has the following features:
 
 
 
-![_config.yml]({{ site.baseurl }}/images/app_flask.PNG)
+![_config.yml]({{ site.baseurl }}/images/video_restricciones.avi)
 
 The complete code can be viewed at [here](https://github.com/fldiaz/flask)
