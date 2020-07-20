@@ -14,6 +14,9 @@ I’ll be using the YOLO v3 Object Detection Algorithm and OpenCV library.
 2. Compute Euclidean distance between every points.
 3. Calculate the percentage of persons who are no respecting the social distancing.
 
-[![Watch the video](/images/cover.png)](https://youtu.be/GQAOTVZo1eo)
+[![Watch the video](/images/cover.png)](https://youtu.be/UI5nYAeCEco)
+
+### Input -
+![](/images/Hnet-image.gif)
 
 The complete code can be viewed at [here](https://github.com/fldiaz/flask)
